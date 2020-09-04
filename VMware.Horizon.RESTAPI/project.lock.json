@@ -5215,28 +5215,28 @@
     ".NETStandard,Version=v1.3": []
   },
   "packageFolders": {
-    "C:\\Users\\andy\\.nuget\\packages\\": {}
+    "/Users/sean.massey/.nuget/packages/": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\andy\\source\\repos\\HorizonRESTAPIClient\\VMware.Horizon.RESTAPI\\VMware.Horizon.RESTAPI.csproj",
+      "projectUniqueName": "/Users/sean.massey/Projects/HorizonRESTC-Client/VMware.Horizon.RESTAPI/VMware.Horizon.RESTAPI.csproj",
       "projectName": "VMware.Horizon.RESTAPI",
-      "projectPath": "C:\\Users\\andy\\source\\repos\\HorizonRESTAPIClient\\VMware.Horizon.RESTAPI\\VMware.Horizon.RESTAPI.csproj",
-      "projectJsonPath": "C:\\Users\\andy\\source\\repos\\HorizonRESTAPIClient\\VMware.Horizon.RESTAPI\\project.json",
-      "packagesPath": "C:\\Users\\andy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andy\\source\\repos\\HorizonRESTAPIClient\\VMware.Horizon.RESTAPI\\obj\\",
+      "projectPath": "/Users/sean.massey/Projects/HorizonRESTC-Client/VMware.Horizon.RESTAPI/VMware.Horizon.RESTAPI.csproj",
+      "projectJsonPath": "/Users/sean.massey/Projects/HorizonRESTC-Client/VMware.Horizon.RESTAPI/project.json",
+      "packagesPath": "/Users/sean.massey/.nuget/packages/",
+      "outputPath": "/Users/sean.massey/Projects/HorizonRESTC-Client/VMware.Horizon.RESTAPI/obj/",
       "projectStyle": "ProjectJson",
+      "validateRuntimeAssets": true,
       "configFilePaths": [
-        "C:\\Users\\andy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/sean.massey/.config/NuGet/NuGet.Config"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
-        "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard1.3": {
+          "projectReferences": {}
+        }
       }
     },
     "dependencies": {
